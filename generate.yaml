@@ -1,0 +1,16 @@
+---
+name: EmployeeApplicationFailed
+description: 'Perform Employee Related '
+basePath: /employeeapplication
+openApiSpec: EmployeeApplicationFailed.yaml
+environmentSpec: QA
+type: API
+authMethod: none
+responseCache:
+  timeDuration: 1
+  cachepolicy: api
+product:
+  productName: prod2
+  subscriptionname: Sub2
+schemes: []
+routes: []
